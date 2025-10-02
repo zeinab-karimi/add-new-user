@@ -1,0 +1,8 @@
+user.name=zeinab
+user.email=zk69na@gmail.com
+core.bare=false
+core.repositoryformatversion=0
+core.filemode=true
+core.logallrefupdates=true
+remote.origin.url=git@github.com:zeinab-karimi/add-new-user.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
